@@ -1,0 +1,11 @@
+magicians=["alice","david","carolina","parthi","messi","rolando"]
+magicians_new=magicians[:]
+magicians_new.append("Dev")
+magicians.append("hem")
+print(magicians)
+print(magicians_new)
+magicians_new2=magicians
+magicians.append("priya")
+magicians_new2.append("others")
+print(magicians)
+print(magicians_new2)

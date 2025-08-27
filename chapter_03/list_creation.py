@@ -1,0 +1,11 @@
+bikes=["honda","yamaha","suzuki"]
+print(bikes)
+print(bikes[0])
+print(bikes[1])
+print(bikes[2])
+print(bikes[-1])
+print(bikes[-2])
+print(bikes[-3])
+print(len(bikes))
+print(f"{bikes[0].title()}")
+print(len(bikes))
