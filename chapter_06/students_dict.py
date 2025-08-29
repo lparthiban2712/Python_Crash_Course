@@ -1,0 +1,27 @@
+students={
+    "stuent_01":{
+    "f_name":"parthiban",
+    "l_name":"lakshmanan",
+    "age":35
+    },
+     "stuent_02":{
+    "f_name":"priya",
+    "l_name":"parthiban",
+    "age":31
+    },
+     "stuent_03":{
+    "f_name":"dev",
+    "l_name":"parthiban",
+    "age":6
+    },
+     "stuent_04":{
+    "f_name":"hem",
+    "l_name":"parthiban",
+    "age":4
+    },
+    
+}
+print(students["stuent_01"])
+print(students["stuent_02"]["f_name"])
+print(students["stuent_03"]["l_name"])
+print(students["stuent_04"]["age"])
